@@ -18,3 +18,7 @@ Captura de pantalla de GitHub.
 
 * **Enlace perfil github**: https://github.com/chg00016
 * **Usuario github**: chg00016
+
+Captura de pantalla de Trello con las tareas finalizadas.
+* <img src='/Trello final.png' width='800px'>
+
