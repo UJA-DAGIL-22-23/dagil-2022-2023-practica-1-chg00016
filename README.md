@@ -9,6 +9,6 @@ Alumna de la Universidad de Jaén.
 * **Trello**: https://trello.com/u/chg00016/
 
 Captura de pantalla de Trello.
-<img src='/Captura Trello.png' width='800px'>
+* <img src='/Captura Trello.png' width='800px'>
 
-* ** Tablero de Trello**: https://trello.com/b/UQzX6qbP/chg00016
+* **Tablero de Trello**: https://trello.com/b/UQzX6qbP/chg00016
