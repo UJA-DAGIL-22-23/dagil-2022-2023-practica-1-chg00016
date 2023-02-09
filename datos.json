@@ -1,0 +1,26 @@
+{ 
+
+"nombre" : "Carmen Huesa Guardiola",
+
+"descripcion" : "Alumna de la Universidad de Jaén",
+
+"correo" : "chg00016@red.ujaen.es",
+
+"github" : "https://github.com/chg00016/",
+
+"trello" :  "https://trello.com/u/chg00016/"
+
+"foto" : "https://github.com/UJA-DAGIL-22-23/dagil-2022-2023-practica-1-chg00016/blob/main/foto.jpg",
+
+"capturas": [
+
+              "https://github.com/UJA-DAGIL-22-23/dagil-2022-2023-practica-1-chg00016/blob/main/Captura%20Trello.png",
+
+              "https://github.com/UJA-DAGIL-22-23/dagil-2022-2023-practica-1-chg00016/blob/main/Captura%20github.png",
+
+		"https://github.com/UJA-DAGIL-22-23/dagil-2022-2023-practica-1-chg00016/blob/main/Trello%20final.png"
+
+
+]
+
+}
